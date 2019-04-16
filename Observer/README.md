@@ -11,7 +11,7 @@ GUI系统，订阅 -- 发布系统，这个模式的一个重要作用就是解�
 
 ## UML 类图
 
-![image](https://github.com/aixiaozi/DesignPattern/raw/master/image/observerUML.png)
+![image](https://github.com/aixiaozi/DesignPattern/raw/master/image/observerUML.PNG)
 
 
 ## 简化步骤
