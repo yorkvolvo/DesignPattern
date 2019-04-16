@@ -30,6 +30,8 @@
     难以扩展新种类产品
 
 
+
+
 应用场景：
 
    1)JDK中Calendar的getInstance方法；
