@@ -19,7 +19,7 @@
 
 抽象工厂模式是工厂方法模式的升级版本，在有多个业务品种、业务分类时，通过抽象工厂模式产生需要的对象是一种非常好的解决方式。
 
-![image](https://github.com/aixiaozi/DesignPattern/tree/master/image/car.png)
+![image](https://github.com/aixiaozi/DesignPattern/raw/master/image/car.png)
 
 
 上图发动机、座椅、轮胎是一个产品族，而这些产品又分为高档、中档、低档，在两个维度变化。
