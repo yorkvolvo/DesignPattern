@@ -1,5 +1,8 @@
 package com.example.factory.SimpleFactory;
 
+import com.example.factory.SimpleFactory.factory.CarFactory;
+import com.example.factory.SimpleFactory.product.Car;
+
 /**
  * 简单工厂情况下
  *

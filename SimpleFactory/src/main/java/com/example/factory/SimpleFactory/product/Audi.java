@@ -1,4 +1,4 @@
-package com.example.factory.SimpleFactory;
+package com.example.factory.SimpleFactory.product;
 
 public class Audi implements Car {
 
