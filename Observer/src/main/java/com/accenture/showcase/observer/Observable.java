@@ -7,4 +7,10 @@ package com.accenture.showcase.observer;
 interface Observable {
     //发送广播
     void notifyObserver(String message);
+
+//    public static void  get(){
+//        return;
+//    }
+//
+//    public static final String hi = "";
 }
