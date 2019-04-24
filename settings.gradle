@@ -1,1 +1,1 @@
-include ':app', ':Singleton', ':SimpleFactory', ':Factory', ':AbstractFactory', ':Observer', ':Builder'
+include ':app', ':Singleton', ':SimpleFactory', ':Factory', ':AbstractFactory', ':Observer', ':Builder', ':ProxyPattern'
